@@ -50,8 +50,8 @@
 	<dependencies>
 		<dependency>
 		    <groupId>com.github.luzhuomi</groupId>
-		    <artifactId>scalapderiv_2.10</artifactId>
-		    <version>0.0.4</version>
+		    <artifactId>scalapderiv_2.11</artifactId>
+		    <version>0.0.8</version>
 		</dependency>
 	</dependencies>
 	<build>
