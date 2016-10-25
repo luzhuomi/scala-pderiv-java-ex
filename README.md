@@ -1,5 +1,10 @@
 # scala-pderiv-java-ex
-Scala PDeriv Regular Expression Matcher Examples in Java
+Scala PDeriv Regular Expression Matcher Examples in Java 
+
+project home page 
+```
+http://github.com/luzhuomi/scala-pderiv
+```
 
 # requirement: 
 1. maven
